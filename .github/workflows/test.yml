@@ -1,0 +1,3 @@
+permissions:
+  contents: write       # Depoya dosya yazma/commit izni
+  pull-requests: write  # PR'lara yorum yapma veya PR açma izni
